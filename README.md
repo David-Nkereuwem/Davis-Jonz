@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Davis-Jonz
+- 👋 Hi, I’m @David
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,Fullstack web dev.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me daviddune7@gmail.com
 
